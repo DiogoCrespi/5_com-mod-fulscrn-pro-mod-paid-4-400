@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Revenir à l'accueil"</string>
+    <string name="abc_action_bar_up_description">Revenir en haut de la page</string>
+    <string name="abc_action_menu_overflow_description">"Plus d'options"</string>
+    <string name="abc_action_mode_done">OK</string>
+    <string name="abc_activity_chooser_view_see_all">Tout afficher</string>
+    <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
+    <string name="abc_capital_off">DÉSACTIVÉ</string>
+    <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_search_hint">Rechercher…</string>
+    <string name="abc_searchview_description_clear">Effacer la requête</string>
+    <string name="abc_searchview_description_query">Requête de recherche</string>
+    <string name="abc_searchview_description_search">Rechercher</string>
+    <string name="abc_searchview_description_submit">Envoyer la requête</string>
+    <string name="abc_searchview_description_voice">Recherche vocale</string>
+    <string name="abc_shareactionprovider_share_with">Partager avec</string>
+    <string name="abc_shareactionprovider_share_with_application">Partager avec %s</string>
+    <string name="abc_toolbar_collapse_description">Réduire</string>
+    <string name="action_about">À propos de Fulscrn</string>
+    <string name="action_notification_toggle">Notification Basculer</string>
+    <string name="category_others">Les autres</string>
+    <string name="category_settings">Paramètres</string>
+    <string name="dialog_feedback_msg">"Si vous aimez Fulscrn, notez nous dans le store.
+Si vous trouvez un bug, signalez nous un problème.
+Merci de votre soutien :-)"</string>
+    <string name="dialog_feedback_title">Réaction</string>
+    <string name="dialog_permission_msg">"Pour utiliser Fulscrn, s'il vous plaît permettre à \"dessiner sur d'autres applications\" autorisation"</string>
+    <string name="dialog_permission_title">Permissions</string>
+    <string name="dialog_remind_msg">"Fulscrn vous laisse utiliser tout les pixels de l'écran afin de fournir une meilleure expérience pour lire des livres, regarder la télévision et jouer à des jeux.
+Cependant, Fulscrn n'est pas une solution parfaite. A cause des limitations du Système, quand le mode plein écran est activé, le back et le clavier sont désactivés. Désolé pour le dérangement.
+Amusez-vous :-)"</string>
+    <string name="dialog_remind_title">Pourquoi Ful(l)scr(ee)n?</string>
+    <string name="error_mail_not_found">Pas de client de messagerie trouvé dans votre appareil</string>
+    <string name="notification_priority_default">Par défaut</string>
+    <string name="notification_priority_high">Élevé</string>
+    <string name="notification_priority_low">Faible</string>
+    <string name="notification_priority_max">Max</string>
+    <string name="notification_priority_min">Min</string>
+    <string name="pref_auto_expand_status_bar">"Expandre la barre d'état automatiquement"</string>
+    <string name="pref_feedback">Réaction</string>
+    <string name="pref_hide_status_bar">"Cacher la barre d'état"</string>
+    <string name="pref_keep_screen_on">"Gardez l'écran allumé"</string>
+    <string name="pref_notification_priority">Notification priorité</string>
+    <string name="pref_version">Version</string>
+    <string name="search_menu_title">Rechercher</string>
+    <string name="status_bar_notification_info_overflow">>999</string>
+    <string name="summary_auto_expand_status_bar">"Expandre la barre de d'état quand les notifications sont activées"</string>
+    <string name="summary_hide_status_bar">"Cacher la barre d'état en mode plein écran"</string>
+    <string name="summary_keep_screen_on">"L'écran ne se mettra pas en veille en mode plein écran"</string>
+    <string name="text_allow">Permettre</string>
+    <string name="text_deny">Nier</string>
+    <string name="text_mail">Signalez un problème</string>
+    <string name="text_never_remind">Jamais me le rappeler</string>
+    <string name="text_ok">OK</string>
+    <string name="text_rate">Notez Fulscrn</string>
+    <string name="toast_fullscreen_settings_changed">Redémarrez en mode plein écran pour appliquer les modifications</string>
+    <string name="toast_notification_settings_changed">Notification Redémarrer pour appliquer les modifications</string>
+    <string name="toast_permission_denied">Fulscrn: Permission refusée</string>
+</resources>

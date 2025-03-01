@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:scrollbarAlwaysDrawVerticalTrack="true" android:scrollbarStyle="outsideOverlay" android:id="@android:id/list" android:paddingLeft="@dimen/preference_fragment_padding_side" android:paddingRight="@dimen/preference_fragment_padding_side" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:drawSelectorOnTop="false" android:scrollingCache="false" android:cacheColorHint="@android:color/transparent" android:requiresFadingEdge="none" />
+    <TextView android:gravity="center" android:id="@android:id/empty" android:padding="@dimen/preference_fragment_padding_side" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

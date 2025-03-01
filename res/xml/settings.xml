@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/category_settings">
+        <com.afollestad.materialdialogs.prefs.MaterialListPreference android:entries="@array/notification_priority_entries" android:title="@string/pref_notification_priority" android:key="pref_notification_priority" android:summary="%s" android:defaultValue="0" android:entryValues="@array/notification_priority_entry_values" />
+        <CheckBoxPreference android:title="@string/pref_hide_status_bar" android:key="pref_hide_status_bar" android:summary="@string/summary_hide_status_bar" android:defaultValue="true" />
+        <CheckBoxPreference android:title="@string/pref_keep_screen_on" android:key="pref_keep_screen_on" android:summary="@string/summary_keep_screen_on" android:defaultValue="false" />
+        <CheckBoxPreference android:title="@string/pref_auto_expand_status_bar" android:key="pref_auto_expand_status_bar" android:summary="@string/summary_auto_expand_status_bar" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/category_others">
+        <Preference android:title="@string/pref_feedback" android:key="pref_feedback" />
+        <Preference android:title="@string/pref_version" android:key="pref_version" />
+    </PreferenceCategory>
+</PreferenceScreen>

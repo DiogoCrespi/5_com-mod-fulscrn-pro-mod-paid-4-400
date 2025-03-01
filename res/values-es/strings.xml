@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="action_about">Acerca de Fulscrn</string>
+    <string name="action_notification_toggle">Alternar Notificación</string>
+    <string name="category_others">Otros</string>
+    <string name="category_settings">Ajustes</string>
+    <string name="dialog_feedback_msg">"Si te gusta Fulscrn, puntúala en la tienda.
+Si encuentras un error, reporta el problema.
+Gracias por tu apoyo :-)"</string>
+    <string name="dialog_feedback_title">Retroalimentación</string>
+    <string name="dialog_permission_msg">Para utilizar Fulscrn, please enable \"Dibuja sobre otras aplicaciones\" permiso</string>
+    <string name="dialog_permission_title">Permisos</string>
+    <string name="dialog_remind_msg">"Fulscrn te permite usar cada píxel de tu pantalla para brindarte una mejor experiencia para leer libros, ver videos y jugar juegos.
+Sin embargo, Fulscrn no es una solución perfecta. Debido a las limitaciones del Sistema, cuando el modo pantalla esté activo, la tecla Volver y el Teclado están deshabilitados. Lo sentimos por el inconveniente.
+Disfrútalo :-)"</string>
+    <string name="dialog_remind_title">¿Por qué Ful(l)scr(ee)n?</string>
+    <string name="error_mail_not_found">No se encontró un cliente de correo en tu dispositivo.</string>
+    <string name="notification_priority_default">Defecto</string>
+    <string name="notification_priority_high">Alto</string>
+    <string name="notification_priority_low">Bajo</string>
+    <string name="notification_priority_max">Max</string>
+    <string name="notification_priority_min">Min</string>
+    <string name="pref_auto_expand_status_bar">Auto Expandir la Barra de Estado</string>
+    <string name="pref_feedback">Retroalimentación</string>
+    <string name="pref_hide_status_bar">Ocultar Barra de Estado</string>
+    <string name="pref_keep_screen_on">Mantener la Pantalla Activa</string>
+    <string name="pref_notification_priority">Prioridad de notificaciones</string>
+    <string name="pref_version">Versión</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="summary_auto_expand_status_bar">Expandir la barra de estado cuando hay una notificación activa</string>
+    <string name="summary_hide_status_bar">Oculta la barra de estado cuando el modo pantalla completa está activo</string>
+    <string name="summary_keep_screen_on">La pantalla nunca se apagará cuando el modo pantalla completa esté activo</string>
+    <string name="text_allow">Permitir</string>
+    <string name="text_deny">Negar</string>
+    <string name="text_mail">Reportar Problema</string>
+    <string name="text_never_remind">No recordar de nuevo</string>
+    <string name="text_ok">Ok</string>
+    <string name="text_rate">Puntuar Fulscrn</string>
+    <string name="toast_fullscreen_settings_changed">Reinicie el modo de pantalla completa para aplicar los cambios</string>
+    <string name="toast_notification_settings_changed">Notificación en Reiniciar para aplicar los cambios</string>
+    <string name="toast_permission_denied">Fulscrn: Permiso denegado</string>
+</resources>

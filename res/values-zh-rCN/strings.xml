@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">转到主屏幕</string>
+    <string name="abc_action_bar_up_description">转到上一层级</string>
+    <string name="abc_action_menu_overflow_description">更多选项</string>
+    <string name="abc_action_mode_done">完成</string>
+    <string name="abc_activity_chooser_view_see_all">查看全部</string>
+    <string name="abc_activitychooserview_choose_application">选择应用</string>
+    <string name="abc_capital_off">关闭</string>
+    <string name="abc_capital_on">开启</string>
+    <string name="abc_search_hint">搜索…</string>
+    <string name="abc_searchview_description_clear">清除查询</string>
+    <string name="abc_searchview_description_query">搜索查询</string>
+    <string name="abc_searchview_description_search">搜索</string>
+    <string name="abc_searchview_description_submit">提交查询</string>
+    <string name="abc_searchview_description_voice">语音搜索</string>
+    <string name="abc_shareactionprovider_share_with">分享方式</string>
+    <string name="abc_shareactionprovider_share_with_application">使用%s分享</string>
+    <string name="abc_toolbar_collapse_description">收起</string>
+    <string name="action_about">关于 Fulscrn</string>
+    <string name="action_notification_toggle">通知开关</string>
+    <string name="category_others">其他</string>
+    <string name="category_settings">设置</string>
+    <string name="dialog_feedback_msg">"如果您喜欢 Fulscrn，请给个评价。
+如果您遇到了使用问题，请及时反馈给我们。
+感谢您的支持 :-)"</string>
+    <string name="dialog_feedback_title">反馈</string>
+    <string name="dialog_permission_msg">要使用 Fulscrn, 请打开 \"Draw over other apps\" 权限</string>
+    <string name="dialog_permission_title">权限</string>
+    <string name="dialog_remind_msg">"Fulscrn 充分利用屏幕的每个像素来提供更好的阅读、视频和游戏体验。
+然而，Fulscrn 不是完美的解决方案。由于系统的局限性，当开启全屏模式后，返回键和键盘会失效。对您带来的不便表示抱歉。
+赶紧体验吧 :-)"</string>
+    <string name="dialog_remind_title">为什么叫 Ful(l)scr(ee)n？</string>
+    <string name="error_mail_not_found">您的设备没有安装邮件客户端</string>
+    <string name="notification_priority_default">默认</string>
+    <string name="notification_priority_high">较高</string>
+    <string name="notification_priority_low">较低</string>
+    <string name="notification_priority_max">最高</string>
+    <string name="notification_priority_min">最低</string>
+    <string name="pref_auto_expand_status_bar">自动展开状态栏</string>
+    <string name="pref_feedback">反馈</string>
+    <string name="pref_hide_status_bar">隐藏状态栏</string>
+    <string name="pref_keep_screen_on">保持屏幕常亮</string>
+    <string name="pref_notification_priority">通知优先级</string>
+    <string name="pref_version">版本</string>
+    <string name="search_menu_title">搜索</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_auto_expand_status_bar">当开启通知时，展开状态栏</string>
+    <string name="summary_hide_status_bar">当全屏模式开启时，隐藏状态栏</string>
+    <string name="summary_keep_screen_on">当全屏模式开启时，保持屏幕常亮</string>
+    <string name="text_allow">允许</string>
+    <string name="text_deny">拒绝</string>
+    <string name="text_mail">反馈问题</string>
+    <string name="text_never_remind">不再提醒</string>
+    <string name="text_ok">确定</string>
+    <string name="text_rate">评价 Fulscrn</string>
+    <string name="toast_fullscreen_settings_changed">重启全屏模式来应用更改</string>
+    <string name="toast_notification_settings_changed">重启通知来应用更改</string>
+    <string name="toast_permission_denied">Fulscrn: 没有权限</string>
+</resources>

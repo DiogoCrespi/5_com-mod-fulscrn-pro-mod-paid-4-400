@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notification_priority_entries">
+        <item>@string/notification_priority_max</item>
+        <item>@string/notification_priority_high</item>
+        <item>@string/notification_priority_default</item>
+        <item>@string/notification_priority_low</item>
+        <item>@string/notification_priority_min</item>
+    </string-array>
+    <string-array name="notification_priority_entry_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>

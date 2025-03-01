@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="notification_action_color_filter">@color/secondary_text_default_material_light</color>
+    <color name="notification_title">#de000000</color>
+    <color name="selector_notification_highlight">#33000000</color>
+</resources>

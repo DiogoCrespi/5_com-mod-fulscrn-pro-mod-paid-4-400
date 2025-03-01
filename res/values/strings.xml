@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_about">About Fulscrn</string>
+    <string name="action_notification_toggle">Notification Toggle</string>
+    <string name="app_name">Fulscrn</string>
+    <string name="category_others">Others</string>
+    <string name="category_settings">Settings</string>
+    <string name="dialog_feedback_msg">"If you like Fulscrn, rate it in store.
+If you find a bug, report an issue.
+Thanks for your support :-)"</string>
+    <string name="dialog_feedback_title">Feedback</string>
+    <string name="dialog_permission_msg">To use Fulscrn, please enable \"Draw over other apps\" permission</string>
+    <string name="dialog_permission_title">Permissions</string>
+    <string name="dialog_remind_msg">"Fulscrn lets you use every pixel on the screen to provide better experience for reading books, watching videos and playing games.
+However, Fulscrn isn't a perfect solution. Due to System's limitation, when fullscreen mode on, Back and Keyboard are disabled. Sorry for the inconvenience.
+Enjoy :-)"</string>
+    <string name="dialog_remind_title">Why Ful(l)scr(ee)n?</string>
+    <string name="error_mail_not_found">No mail client found on your device.</string>
+    <string name="md_back_label">Back</string>
+    <string name="md_cancel_label">Cancel</string>
+    <string name="md_choose_label">Choose</string>
+    <string name="md_custom_label">Custom</string>
+    <string name="md_done_label">Done</string>
+    <string name="md_error_label">Error</string>
+    <string name="md_presets_label">Presets</string>
+    <string name="md_storage_perm_error">Your app has not been granted the READ_EXTERNAL_STORAGE permission.</string>
+    <string name="new_folder">New Folder</string>
+    <string name="notification_priority_default">Default</string>
+    <string name="notification_priority_high">High</string>
+    <string name="notification_priority_low">Low</string>
+    <string name="notification_priority_max">Max</string>
+    <string name="notification_priority_min">Min</string>
+    <string name="pref_auto_expand_status_bar">Auto Expand Status Bar</string>
+    <string name="pref_feedback">Feedback</string>
+    <string name="pref_hide_status_bar">Hide StatusBar</string>
+    <string name="pref_keep_screen_on">Keep Screen On</string>
+    <string name="pref_notification_priority">Notification Priority</string>
+    <string name="pref_version">Version</string>
+    <string name="search_menu_title">Search</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="summary_auto_expand_status_bar">Expand status bar when notification on</string>
+    <string name="summary_hide_status_bar">Hide status bar when fullscreen mode on</string>
+    <string name="summary_keep_screen_on">Screen will never sleep when fullscreen mode on</string>
+    <string name="text_allow">Allow</string>
+    <string name="text_deny">Deny</string>
+    <string name="text_mail">Report Issue</string>
+    <string name="text_never_remind">Never remind</string>
+    <string name="text_ok">OK</string>
+    <string name="text_rate">Rate Fulscrn</string>
+    <string name="toast_fullscreen_settings_changed">Restart fullscreen mode to apply changes</string>
+    <string name="toast_notification_settings_changed">Restart notification to apply changes</string>
+    <string name="toast_permission_denied">Fulscrn: Permission denied</string>
+</resources>
